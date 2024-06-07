@@ -1,0 +1,11 @@
+Organizations use several different types of DevOps tools, including:
+
+Version control tools, such as Git
+
+Continuous integration tools, such as Jenkins
+
+Configuration management tools, such as Puppet
+
+Containerization tools, such as Docker
+
+Cloud tools, such as AWS
